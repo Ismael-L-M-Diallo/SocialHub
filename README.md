@@ -1,4 +1,4 @@
-# Projet Site Web Full-Stack
+# SocialHub
 Projet de site web dynamique avec chat et requetes dynamiques base sur Node.js/Express/MongoDB
 
 ##  Description du projet
